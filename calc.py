@@ -1,5 +1,5 @@
 '''
-Calcultor v. 0.4
+Calculator v. 0.4
 '''
 
 def input_number():
